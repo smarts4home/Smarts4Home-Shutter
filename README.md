@@ -16,4 +16,4 @@ Two relay PCB board to control roller shutters using physical buttons, rf433 rem
 <li>1 x WX-DC12003
 <li>Terminal Block AK500/5 - horizontally mounted 
 <li>Terminal Block AK500/3 - horizontally mounted 
-<li>Fuse 2A/250
+<li>Fuse 2A/250V
