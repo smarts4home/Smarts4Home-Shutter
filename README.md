@@ -6,6 +6,7 @@
 <p>
 Two relay PCB board to control roller shutters using physical buttons, rf433 remote and wifi.<br>
 <B>Bill of materials</b><ul>
+<li>smarts4home base module
 <li>2 x 1n4007 SOD-123
 <li>2 x PC817
 <li>2 x MPS2222A
